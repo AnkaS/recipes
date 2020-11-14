@@ -1,0 +1,11 @@
+--- 
+title: "Recipes by Anna & Ivan"
+author: "(1+V)Anya"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+description: "Полюбившиеся рецепты Вани и Ани"
+---
+
